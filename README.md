@@ -1,5 +1,9 @@
 # About React
 
+https://what-is-react.netlify.app/
+
+---
+
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
 Quick start:
@@ -23,6 +27,6 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ### Screenshots
 
-![React Answer](react-question.png)
+![React Answer](./images/react-question.png)
 
-![React Question](react-answer.png)
+![React Question](./images/react-answer.png)
