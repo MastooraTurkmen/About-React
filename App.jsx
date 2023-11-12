@@ -20,15 +20,11 @@ export default function app() {
         <h1> React Study Buddy </h1>
       </header>
 
-      {/*-------Edit the div below!------------*/}
-
       <div
         onClick={() =>
           setFlashCard((prev) => ({ ...prev, flipped: !prev.flipped }))
         }
         className={`flash-card ${flashCard.flipped ? "flipped" : ""}`}>
-        {/*-------Edit the div above!------------*/}
-
         <div className="flash-card-inner">
           <div className="flash-card-front">
             <p className="question">{flashCard.question}</p>
