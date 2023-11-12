@@ -13,5 +13,5 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ### What is React? 🤔
 
-1.  **_A JavaScript framework_**
-2.  **_A JavaScript library_**
+1.  **_A JavaScript framework_** 🥱🫡
+2.  **_A JavaScript library_**😁📚
