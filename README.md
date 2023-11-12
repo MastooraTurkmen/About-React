@@ -11,6 +11,8 @@ $ npm start
 
 Head over to https://vitejs.dev/ to learn more about using vite
 
+---
+
 ### What is React? 🤔
 
 1.  **_A JavaScript framework_** 🥱🫡
