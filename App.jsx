@@ -1,5 +1,6 @@
 import React from "react";
 import { nanoid } from "nanoid";
+import ReactSvg from "./images/react.svg";
 
 export default function app() {
   const [flashCard, setFlashCard] = React.useState({
@@ -16,7 +17,7 @@ export default function app() {
   return (
     <div>
       <header>
-        <img src="./images/react.svg" />
+        <img src={ReactSvg} />
         <h1> React Study Buddy </h1>
       </header>
 
