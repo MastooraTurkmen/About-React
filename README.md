@@ -17,6 +17,7 @@ $ npm run dev
 ```
 $ pnpm install
 $ pnpm start
+$ pnpm run dev
 ```
 
 Head over to https://vitejs.dev/ to learn more about using vite
