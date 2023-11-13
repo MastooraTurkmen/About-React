@@ -56,3 +56,10 @@ Head over to https://vitejs.dev/ to learn more about using vite
     + [Figma](https://github.com/topics/figma)
     + [Netlify](https://github.com/topics/netlify)
 
+
+
+------
+
+
+## Cloning the project 🪛
+
