@@ -72,6 +72,22 @@ $ cd about-react
 ```
 
 
+
+## Deployment📥
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -----
 
 
