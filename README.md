@@ -22,7 +22,7 @@ $ pnpm run dev
 
 Head over to https://vitejs.dev/ to learn more about using vite
 
----
+-----
 
 ### What is React? 🤔
 
@@ -38,6 +38,8 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ![React Question](./images/react-answer.png)
 
+
+-------
 
 
 ## Languages and Tools are used
@@ -82,23 +84,6 @@ $ cd about-react
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for About-React_** and then select the **_Deploy About-React_** Button.
 7. Now your project is Live.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 -----
