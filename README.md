@@ -4,8 +4,6 @@ https://what-is-react.netlify.app/
 
 ---
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
-
 Quick start:
 
 ```
